@@ -5,8 +5,8 @@ var wormGroup;
 
 function preload(){
   wormImage = loadImage("images/snake.png");
-  bgImage = loadImage("images/bgImg.png");
-  playerImage = loadImage("images/bunny.png");
+  bgImage = loadImage("images/bg.png");
+  playerImage = loadImage("images/bunnyImg.png");
   }
 
 function setup() {
